@@ -1,5 +1,5 @@
 # Model arguments
-model_name_or_path: aisingapore/sea-lion-7b
+model_name_or_path: airesearch/WangchanLion7B
 model_revision: main
 torch_dtype: bfloat16
 use_flash_attention_2: false
